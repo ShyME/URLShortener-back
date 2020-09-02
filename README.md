@@ -7,7 +7,7 @@ POST at home URL with a body of raw String describing an URL to shorten.
 GET at home/:id returning a JSON of UrlResponse
 Example: 
 `{
-  "longUrl": "https://github.com"
+  "longUrl": "https://github.com",
   "shortUrl": "1"
 }`
 
